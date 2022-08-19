@@ -35,4 +35,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          cd random-ml-fe && cat README.md && .. && cd random-ml-be && cat README.md && ..
+          cd random-ml-fe && cat README.md
