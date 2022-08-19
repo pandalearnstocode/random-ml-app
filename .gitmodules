@@ -1,0 +1,6 @@
+[submodule "random-ml-be"]
+	path = random-ml-be
+	url = https://github.com/pandalearnstocode/random-ml-be
+[submodule "random-ml-fe"]
+	path = random-ml-fe
+	url = https://github.com/pandalearnstocode/random-ml-fe
