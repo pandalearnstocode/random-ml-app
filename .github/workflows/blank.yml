@@ -36,4 +36,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          git submodule update --init --recursive
           cd random-ml-fe && cat README.md
